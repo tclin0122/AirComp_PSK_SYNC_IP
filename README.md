@@ -1,1 +1,3 @@
 # AirComp_PSK_SYNC_IP
+
+#### AUTHOR: GOD LIN 
