@@ -1,3 +1,2 @@
 # AirComp_PSK_SYNC_IP
-
-#### AUTHOR: GOD LIN 
+Repo to for Sync IP for PSK
