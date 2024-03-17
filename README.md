@@ -1,7 +1,7 @@
 # AirComp_PSK_SYNC_IP
 Repo to for Sync IP for PSK
 #### While installing Vivado 2021.1, linux need these packets:
-  ''' python
+  '''python
   sudo apt-get update
   sudo apt-get upgrade
   sudo apt-get install libncurses5
