@@ -1,11 +1,11 @@
-module util_tdd_sync (
+module dma_tdd_sync (
   input                   clk,
   input                   rstn,
   input                   sync_in,
   output  reg             sync_out
 );
 
-  parameter PULSE_WIDTH = 10;  // Duration of sync_out pulse in clock cycles
+  parameter PULSE_WIDTH = 10000;  // Duration of sync_out pulse in clock cycles
 
   reg [31:0] counter;  // Counter for pulse width
   reg sync_in_d;       // Delayed version of sync_in to detect rising edge
