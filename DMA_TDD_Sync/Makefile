@@ -1,4 +1,4 @@
-LIBRRARY_NAME := dma_tdd_sync
+LIBRARY_NAME := dma_tdd_sync
 
 GENERIC_DEPS += dma_tdd_sync.v
 
